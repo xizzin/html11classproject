@@ -1,0 +1,112 @@
+html{
+	background-color: #15032D;
+	color: #2F243D;
+}
+
+a {
+text-decoration: underline;
+text-decoration-color: #FFDB40;
+}
+a:visited { text-decoration-color: #AD9941; }
+
+table {
+	background-color: #532881;
+	border-color: #FFE573;
+}
+
+.index {
+font-family: Courier, monospace;
+font-weight: normal;
+font-size: "5";
+color: 	#FFDB40;
+}
+
+.indexh1 {
+	font-family: Luminari, fantasy;
+font-weight: normal;
+font-size: "7";
+color: #FFCF00;
+text-align: center;
+}
+
+
+.indexpostp {
+margin-left: 20%;
+margin-right: 15%;
+margin-top: 20px;
+margin-bottom: 20px;
+padding: 10px;
+border-width: 1px;
+border-color: #E7C326;
+border-style: solid;
+background-color: #15032D;
+width: 60%;
+
+
+}
+
+.indexposttext {
+font-family: Courier, monospace;
+font-weight: normal;
+font-size:30px;
+color: 	#FFCF00;
+}
+
+.time {
+font-family: Andale Mono, monospace;
+font-weight: normal;
+font-size: 15px;
+color: 	#FFDB40;
+text-align: left;
+text-decoration: underline;
+text-decoration-color: #AD9941;
+}
+
+.adminp {
+padding: 2%;
+border-width: 1px;
+border-color: #E7C326;
+border-style: solid;
+background-color: #15032D;
+width: 60%;
+}
+
+.cosmosimagg {
+border-width: 2px;
+border-color: #EDC80E;
+border-style: solid;
+padding: 1%;
+}
+
+.qandah {
+font-family: Gill Sans, sans-serif;
+font-weight: normal;
+font-size:35px;
+color: 	#FFCF00;
+margin-left: 5%;
+}
+
+.qanda {
+font-family: Courier, monospace;
+font-weight: normal;
+font-size:30px;
+color: 	#FFCF00;
+margin-left: 25%;
+margin-right: 10%;
+margin-bottom: 4%;
+padding: 10px;
+border-width: 1px;
+border-color: #E7C326;
+border-style: solid;
+}
+
+.rulesp {
+margin-right: 10%;
+margin-left: 25%;
+margin-bottom: 3%;
+padding: 10px;
+border-width: 1px;
+border-color: #E7C326;
+border-style: solid;
+
+}
